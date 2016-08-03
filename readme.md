@@ -10,4 +10,4 @@
 
 ## Example
 
-`Run gulp watch --options path/to/myFolder`
+Run `gulp watch --options path/to/myFolder`
