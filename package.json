@@ -1,0 +1,23 @@
+{
+  "name": "gulp-sass-multiwatch",
+  "version": "1.0.0",
+  "description": "Watch multiple sass folders at once",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-sass": "^2.3.2",
+    "gulp-zip": "^3.2.0",
+    "imagemin-pngquant": "^5.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clem Ollivier",
+  "license": "ISC"
+}
