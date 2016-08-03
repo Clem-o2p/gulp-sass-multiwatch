@@ -1,23 +1,23 @@
-## Gulp Sass Multiwatch
+# Gulp Sass Multiwatch
 
-# Install
+## Install
 
 `npm install`
 
-# Run
+## Run
 
 `gulp watch --options <folder>`
 
-# Example
+## Example
 
-`myFolder  
-  |_folder a  
-    |_partials  
-      |_partial.scss  
-    style.scss  
-  |_folder b  
-    |_partials  
-      |_partial.scss  
-    style.scss`
+`myFolder
+	|_folder a
+		|_partials
+			|_partial.scss
+		style.scss
+	|_folder b
+		|_partials
+			|_partial.scss
+		style.scss`
 
 `Run gulp watch --options path/to/myFolder`
