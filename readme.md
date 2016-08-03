@@ -2,15 +2,15 @@
 
 # Install
 
-npm install
+`npm install`
 
 # Run
 
-gulp watch --options <folder>
+`gulp watch --options <folder>`
 
 # Example
 
-myFolder
+`myFolder
   |_folder a
     |_partials
       |_partial.scss
@@ -18,6 +18,6 @@ myFolder
   |_folder b
     |_partials
       |_partial.scss
-    style.scss
+    style.scss`
 
-Run gulp watch --options path/to/myFolder
+`Run gulp watch --options path/to/myFolder`
