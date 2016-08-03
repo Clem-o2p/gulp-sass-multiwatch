@@ -2,11 +2,8 @@ var gulp = require('gulp'),
 	fs = require('fs'),
 	path = require('path'),
 	rename = require('gulp-rename'),
-	cleanCSS = require('gulp-clean-css'),
-	imagemin = require('gulp-imagemin'),
 	sass	 = require('gulp-sass'),
-	zip = require('gulp-zip'),
-	pngquant = require('imagemin-pngquant');
+	zip = require('gulp-zip');
 
 var scriptsPath = path.join('./', process.argv[4]);
 
